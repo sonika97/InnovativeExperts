@@ -131,9 +131,7 @@ h1, h2, h3, h4, h5, h6 {
   letter-spacing: 2px;
   text-transform: uppercase;*/
 }
-.logo: hover{
-  transition: 0.5s;
-}
+
 #header .logo a {
   color: #fff;
 }
@@ -383,7 +381,7 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Poppins", sans-serif;
 }
 #hero h1 span {
-  color: #ffc451;
+  color: #55c5d1;
 }
 #hero h2 {
   color: rgba(255, 255, 255, 0.9);
@@ -1233,7 +1231,7 @@ section {
   margin-bottom: 30px;
 }
 #footer .footer-top .footer-info h3 {
-  font-size: 24px;
+  font-size: 23px;
   margin: 0 0 20px 0;
   padding: 2px 0 2px 0;
   line-height: 1;
